@@ -23,7 +23,7 @@ I hold a degree in Engineering from An-Najah University, which has equipped me w
 - 📰 &nbsp;  I enjoy listening music 🎧 Watching TedTalks, and Playing games.
 - 👾 &nbsp; I am interested in learning Game Development 
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
