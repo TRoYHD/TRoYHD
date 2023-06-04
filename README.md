@@ -5,7 +5,7 @@
     <img src="https://github.com/OsamaSaw/OsamaSaw/blob/main/hello.gif" height="25px" width="25px"></a> Hi, I'am Yazan Khwaireh. A passionate Developer
 </h3> 
 
-I'm a graduate 🎓 from An-Najah University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Scraping and Automation 🕸️
+I hold a degree in Engineering from An-Najah University, which has equipped me with a strong foundation in the field 🎓. As a passionate learner, I am continuously seeking opportunities to expand my knowledge and expertise across various technologies and domains 💡. I thoroughly enjoy exploring emerging technologies and harnessing their potential to address real-life challenges ✨. Presently, I am focused on honing my skills in Web Scraping and Automation
 
 <img align="right" height="250" width="375" alt="coding gif" src="https://github.com/OsamaSaw/OsamaSaw/blob/main/coding.gif" />
 
