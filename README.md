@@ -51,6 +51,10 @@ I hold a degree in Engineering from An-Najah University, which has equipped me w
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098?style=flat-square&logo=JavaScript&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-430098?style=flat-square&logo=Express&logoColor=white" />
+<img alt="sequelize ORM" src="https://img.shields.io/badge/-sequelize ORM-430098?style=flat-square&logo=sequelize&logoColor=white" />
+
+
 
 </p>
 
