@@ -73,7 +73,9 @@ I live in Nablus city. I like video games, good food, being outside, and coding.
 
 ### Get In Touch
 <a href="mailto:yazan.khwaireh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/yazan-khwaireh-4b56a115/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>  <a href="https://yazan-khwaireh-dev.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</a>  
+<a href="https://yazan-khwaireh-dev.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
 <!--<a href="https://www."><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>  -->
 <!-- 
 ### What I Work With
