@@ -11,7 +11,7 @@ I hold a degree in Engineering from An-Najah University, which has equipped me w
 
 ### About Me:
 
-- 🚀 &nbsp; I’m currently working as a Full-stack.
+- 🚀 &nbsp; I’m currently working on Improving my skills.
 - 🛠 &nbsp; working with Nodejs, Rest, Puppeteer, Mongodb, Javascript, etc.
 - 📫 &nbsp; How to reach me: yazan.khwaireh@gmail.com , I'll try to respond as soon as I can.
 <!-- - 📝 &nbsp; Checkout my [Resume]().-->
